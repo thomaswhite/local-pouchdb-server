@@ -87,4 +87,8 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# =====================
 /data/**
+/log.txt
+/.idea
+/Makefile

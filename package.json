@@ -1,0 +1,7 @@
+{
+    "name": "local-pouch-server",
+    "version": "0.0.1",
+    "dependencies": {
+        "pouchdb-server": "^4.2.0"
+    }
+}
